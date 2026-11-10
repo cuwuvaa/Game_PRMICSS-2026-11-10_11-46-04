@@ -1,0 +1,13 @@
+{
+  "test": "T6_final_smoke",
+  "profile": 0,
+  "scenario": "prediction",
+  "response_ms": 18.3,
+  "confirmation_ms": 67.5,
+  "corrections": 0,
+  "server_rejections": 0,
+  "final_ack": 354,
+  "final_pending": 1,
+  "screenshot": "media/checks/T6_final_smoke/prediction.png",
+  "passed": true
+}
